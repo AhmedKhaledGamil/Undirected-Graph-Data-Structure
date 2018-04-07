@@ -8,9 +8,9 @@ using namespace std;
 int main() {
 
     ifstream inFile;
-    inFile.open("C://Users//ahmed_nqedrw9//CLionProjects//DSAssignment1//graph.txt");
+    inFile.open("Input Destination//input.txt");
 
-    ofstream outFile("C://Users//ahmed_nqedrw9//CLionProjects//DSAssignment1//output.csv");
+    ofstream outFile("Output Destination//output.csv");
     float x,y;
     inFile >> x;
     inFile >> y;
