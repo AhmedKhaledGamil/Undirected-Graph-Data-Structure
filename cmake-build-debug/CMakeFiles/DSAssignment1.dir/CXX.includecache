@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/ahmed_nqedrw9/CLionProjects/DSAssignment1/main.cpp
+map
+-
+iostream
+-
+fstream
+-
+string
+-
+
