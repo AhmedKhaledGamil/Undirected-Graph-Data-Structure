@@ -15,13 +15,13 @@ and how many nodes it’s directly connected to in a comma separated file format
 that can be imported by excel.
 
 ## Sample
-- Input file:
+- Input file: <br />
 4 4 <br />
 1 2 <br />
 3 2 <br />
 4 3 <br />
 1 4 <br />
-- Output file:
+- Output file: <br />
 1,2 <br />
 2,2 <br />
 3,2 <br />
