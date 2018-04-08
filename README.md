@@ -16,13 +16,13 @@ that can be imported by excel.
 
 ## Sample
 - Input file:
-4 4
-1 2
-3 2
-4 3
-1 4
+4 4 <br />
+1 2 <br />
+3 2 <br />
+4 3 <br />
+1 4 <br />
 - Output file:
-1,2
-2,2
-3,2
+1,2 <br />
+2,2 <br />
+3,2 <br />
 4,2
